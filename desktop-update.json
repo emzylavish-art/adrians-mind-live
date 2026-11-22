@@ -1,20 +1,20 @@
 {
   "product": "adrians-mind",
   "version": "0.9.1",
-  "build": 5,
+  "build": 6,
   "download": "https://github.com/emzylavish-art/adrians-mind-command-os/releases/tag/desktop-installer",
-  "sha256": "b2208762915af447c98e87e6ed9f46481efafa39b3e059bfd66486d740f63155",
-  "size": 6392934743,
+  "sha256": "23332b20c9527bf7b202298bf793ae63d99fb1047cd0d4d8063d8fdad016e194",
+  "size": 6393353387,
   "channel": "full",
   "cloud": "https://adrians-mind.vercel.app",
   "fullPackage": {
     "finalName": "AdriansMind-Setup-Full.exe",
-    "sha256": "b2208762915af447c98e87e6ed9f46481efafa39b3e059bfd66486d740f63155",
-    "size": 6392934743,
+    "sha256": "23332b20c9527bf7b202298bf793ae63d99fb1047cd0d4d8063d8fdad016e194",
+    "size": 6393353387,
     "parts": [
       {
         "name": "AdriansMind-Setup-Full.exe.part00",
-        "sha256": "143b3bb2eeeb5cd53a3802c6050f1319080106fe9fd861b8cdcc4e5da8e48b6b",
+        "sha256": "d9a2d813f4bb1f722e00341bdc936fb1793dda4ae32c08cb78f9d819250bcf5a",
         "size": 1992294400,
         "url": "https://github.com/emzylavish-art/adrians-mind-command-os/releases/download/desktop-installer/AdriansMind-Setup-Full.exe.part00"
       },
@@ -32,8 +32,8 @@
       },
       {
         "name": "AdriansMind-Setup-Full.exe.part03",
-        "sha256": "1485aefa8ddceee26dfc80806c91de9611df3c5e0c2e67bfedf86f66f9cfb0c3",
-        "size": 416051543,
+        "sha256": "a4b2fb4ecc6742761f63975e05f0c8a2cb809d508635d6c0e887389a4082e3f2",
+        "size": 416470187,
         "url": "https://github.com/emzylavish-art/adrians-mind-command-os/releases/download/desktop-installer/AdriansMind-Setup-Full.exe.part03"
       }
     ]
