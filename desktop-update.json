@@ -1,10 +1,21 @@
 {
   "product": "adrians-mind",
-  "version": "0.9.0",
-  "build": 2,
-  "path": "/downloads/AdriansMind-Setup.exe",
-  "download": "https://github.com/emzylavish-art/adrians-mind-live/releases/download/desktop-installer/AdriansMind-Setup.exe",
-  "sha256": "85d13ea835f8de13cf64b065db74b67c4eba92dc345763f3d4b83beebdafe7f8",
-  "size": 597932744,
-  "cloud": "https://adrians-mind.vercel.app"
+  "version": "0.9.1",
+  "build": 3,
+  "download": "https://github.com/emzylavish-art/adrians-mind-command-os/releases/tag/desktop-installer",
+  "sha256": "e88ff2205540742bd5d9ee75be09e9938e522a00ce0f0514af6c5da14a2d0550",
+  "size": 6389066607,
+  "channel": "full",
+  "cloud": "https://adrians-mind.vercel.app",
+  "fullPackage": {
+    "finalName": "AdriansMind-Setup-Full.exe",
+    "sha256": "e88ff2205540742bd5d9ee75be09e9938e522a00ce0f0514af6c5da14a2d0550",
+    "size": 6389066607,
+    "parts": [
+      {"name":"AdriansMind-Setup-Full.exe.part00","sha256":"6981d9d2f71aeaf0ee8513ae41cb597a9aa0b38db16bad4d04746ef6783d4391","size":1992294400,"url":"https://github.com/emzylavish-art/adrians-mind-command-os/releases/download/desktop-installer/AdriansMind-Setup-Full.exe.part00"},
+      {"name":"AdriansMind-Setup-Full.exe.part01","sha256":"4a5707ea3ff877079905308895a826b0dcaa5cce30353296e7c36972405c23d0","size":1992294400,"url":"https://github.com/emzylavish-art/adrians-mind-command-os/releases/download/desktop-installer/AdriansMind-Setup-Full.exe.part01"},
+      {"name":"AdriansMind-Setup-Full.exe.part02","sha256":"68737294d7b9f4db44717196f1841b2c91f1dae918c1725dda75a2740958d7ac","size":1992294400,"url":"https://github.com/emzylavish-art/adrians-mind-command-os/releases/download/desktop-installer/AdriansMind-Setup-Full.exe.part02"},
+      {"name":"AdriansMind-Setup-Full.exe.part03","sha256":"ba4642adb7618c8ff25979584093849c3477facaf0508e6e39f8b20ffb2f0870","size":412183407,"url":"https://github.com/emzylavish-art/adrians-mind-command-os/releases/download/desktop-installer/AdriansMind-Setup-Full.exe.part03"}
+    ]
+  }
 }
