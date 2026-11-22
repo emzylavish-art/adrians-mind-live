@@ -1,0 +1,10 @@
+{
+  "product": "adrians-mind",
+  "version": "0.9.0",
+  "build": 1,
+  "path": "/downloads/AdriansMind-Setup.exe",
+  "download": "https://github.com/emzylavish-art/adrians-mind-live/releases/download/desktop-installer/AdriansMind-Setup.exe",
+  "sha256": "3cdb5417ea615331e9b744174678bc86df57a57c5da15351329b075dfa3be5d3",
+  "size": 110196228,
+  "cloud": "https://adrians-mind.vercel.app"
+}
